@@ -1,0 +1,19 @@
+# R files
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# Package build artifacts
+*.tar.gz
+*.Rcheck/
+man/*.Rd
+
+# Test files
+test_local.R
+test_simple.R
+
+# OS files
+.DS_Store
+Thumbs.db
