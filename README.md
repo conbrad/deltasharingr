@@ -7,7 +7,7 @@ An R client for the [Delta Sharing](https://delta.io/sharing/) protocol, enablin
 ```r
 # Install from GitHub
 install.packages("remotes")
-remotes::install_github("bcgov/deltasharingr")
+remotes::install_github("conbrad/deltasharingr")
 ```
 
 ### Dependencies
